@@ -21,9 +21,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ImTiaan
 github_username:  ImTiaan
 
+aux_links:
+  "0x23...6dE":
+    - "//etherscan.io/address/0x236cc9c02b5e5b0d1f49d2708ee79d63a50e16de"
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 

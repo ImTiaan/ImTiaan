@@ -5,6 +5,8 @@ nav_order: 6
 has_children: true
 permalink: /ImTwitter
 --- 
+incomplete post
+{: .label .label-red }
 Chrome
 {: .label .label-green }
 Extension
@@ -12,9 +14,9 @@ Extension
 Twitter
 {: .label .label-blue }
 HTML
-{: .label .label-red }
+{: .label .label-purple }
 JavaScript
-{: .label .label-red }
+{: .label .label-purple }
 <!-- Place this tag where you want the button to render. -->
 &nbsp;<a class="github-button" href="https://github.com/ImTiaan/ImTwitter/fork" data-show-count="true" aria-label="Fork ImTiaan/ImTwitter on GitHub">Fork</a>
 
