@@ -3,16 +3,30 @@
 <html lang="en-us">
 {% include head.html %}
 <body>
+  <style>
+.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+}
 
+</style>
   <div class="page-wrap">
     <div class="side-bar">
-      <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 lh-tight">{{ site.title }}</a>
+      <a href="/ImTiaan/" class="site-title fs-6 lh-tight">{{ site.title }}</a>
       <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
-        {% include nav.html %}
+        <b>{% include nav.html %}</b>
+        <br>
+        <a href="https://twitter.com/imtiaan" target="0" class="fa fa-twitter" style="text-align: right;"></a>
+          <a href="https://github.com/ImTiaan" target="0" class="fa fa-github" style="text-align: right;"></a>
+          <a href="https://medium.com/@ImTiaan" target="0" class="fa fa-medium" style="text-align: right;"></a>
+          <a href="https://www.linkedin.com/in/ImTiaan/" target="0" class="fa fa-linkedin" style="text-align: right;"></a>
       </div>
       <footer role="contentinfo" class="site-footer">
-        <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+        <!-- <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p> -->
       </footer>
     </div>
     <div class="main-content-wrap js-main-content" tabindex="0">
