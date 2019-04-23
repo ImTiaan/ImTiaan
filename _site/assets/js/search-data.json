@@ -120,55 +120,41 @@
   },
   "18": {
     "id": "18",
-    "title": "Support",
-    "content": "Where to get help If you think you’ve found a bug in The Dinky Theme, please check the existing issues, and if no one has reported the problem, open a new issue. If you have a general question about the theme, how to implement it, or how to customize it for your site you have two options: Contact GitHub Support, or Ask your question of the Jekyll community on talk.jekyllrb.com",
-    "url": "http://localhost:4000/just-the-docs/SUPPORT/",
-    "relUrl": "/SUPPORT/"
-  },
-  "19": {
-    "id": "19",
     "title": "Skills",
     "content": "Skills Marketing &amp; Growth Skill Experience Sentiment Analysis 6 Years Analytics 3 Years User Acquisition 2.5 Years Hyper Growth 2 Years Developer Growth 1.5 Years Customer Success 1 Year SEO &lt;1 Year Project Skill Experience Project Scheduling 10 Years Project Planning 10 Years Project Management 9 Years Product Development 4 Years Product Management 4.5 Years Product Ownership 3 Years Developer Skill Experience HTML 13 Years CSS 9 Years Solidity 1,5 Years JavaScript 5 Years Ruby 1 Year Python &lt; 1 Year Creative Skill Experience Video Editing 10 Years Graphic Design 3 Years Content Writing 6 Years Technical Writing 4 Years UI / UX Design 2.5 Years",
     "url": "http://localhost:4000/just-the-docs/Skills",
     "relUrl": "/Skills"
   },
-  "20": {
-    "id": "20",
+  "19": {
+    "id": "19",
     "title": "Whitepaper Extract 2",
     "content": "Whitepaper Extract 4. Feature Set 4.1. Proof-of-Stake Solaris operates with a Proof-of-Stake consensus mechanism, meaning that anyone who can prove they hold XLR can help secure the network, i.e., has a chance to create the newest block. Unlike masternodes , there is no barrier for entry to start staking XLR. Staking participants only need to prove that they own a minimum of 1 XLR. This is achieved by having mature coins in your wallet or node, which is enabled for Staking. Any participant who does this is considered a validator, and the network of validators then participate in the consensus algorithm. 4.2. Masternodes The purpose of masternodes in the Solaris network is the processing of functions, thus aiding in the creation of new blocks. Just like Stakers, Masternodes receive part of the block reward for their participation in the network. A masternode is a full node or computer wallet that keeps the full copy of the blockchain in real-time. They are however, quite different in their functionality compared to normal nodes in that they perform several other functions. Solaris has implemented the following masternode features in XLR: Privacy Increase through the Zerocoin protocol Instant Transactions through SwiftTX Governance and Voting Budgeting and Treasury Masternodes are not standalone nodes, they are in constant communication with other masternodes to create the decentralized network that Solaris aimed to create. 4.2.1. Masternode Requirements There are many ways to set up a masternode, you may choose to run your own computer, or use a VPS (Virtual Private Server) for example. To run a masternode there are a few requirements: A Fully Synced Wallet 1000 XLR which are not spendable while you run a masternode A computer or VPS 4.3. SwiftTX SwiftTX transactions are confirmed and spendable within seconds. These funds are guaranteed by the Solaris network of masternodes. There is no need to wait for multiple confirmations as is normally expected in order to be confident in the validity of the transaction. 4.4. ZeroCoin Protocol Zerocoin provides full privacy to our users. Our implementation of the Zerocoin protocol converts your publicly available transaction details into an anonymous one. When a user wishes to spend funds, they appear as a new coin without a spending history or origin. This protocol uses cryptographically secure techniques to ensure that your coins cannot be traced. This allows you to transact with your coins freely with strong mathematical assurances that the transactions are not traceable. These assurances remain in place even if the network is compromised. 4.5. Sporks A multi-phased fork, or spork is a system previously unique to DASH, which is used to safely implement new features to the network through network-level variables. This is to avoid unintended forks during upgrade periods. Equally, a spork can also be used to disable a feature if a vulnerability is discovered. New features or versions of Solaris go through rigorous testing before its release to the main network. When new features, patches or upgrades are to be released on the main network, a message is sent to all nodes informing them of the change and requesting them to update their clients. When the new code is run on a client, it is not activated until a predetermined percentage of nodes are running the new code. This percentage is set at 70% for Solaris. If an error occurs with the new code, the nodes blocks are not rejected, thus avoiding unintentional forks. Once that percentage consensus is reached and no errors are found, the new code is activated remotely by multiple members of the development team by signing a network message with their respective private keys. Code may also be deactivated by the same method.",
     "url": "http://localhost:4000/just-the-docs/writing/Solaris/",
     "relUrl": "/writing/Solaris/"
   },
-  "21": {
-    "id": "21",
+  "20": {
+    "id": "20",
     "title": "Work",
     "content": "Recent Roles Menlo One Company Role Description Menlo One Chief Operating Officer Working with the Founder/CEO, CGO, CTO and their respective teams, I worked on the design an implementation of business strategies relating to sales and product development, established policies to promote team culture the founders’ vision as well as daily oversight of company operations. Dev 200 Company Role Description Dev 200 Operations Director As Operations Director of Dev200, I managed all large projects as well as the financial element of the business. Arcadia Group Company Role Description The Arcadia Group Advisor / Technical Writer I worked with Arcadia Media Group, and still do on occasion to assist with whitepaper composition, marketing strategy and growth hacking for businesses in the cryptocurrency and blockchain space. HS Ocean Group Company Role Description HS Ocean Group VP / Director : Offshore Services Overseeing global growth and service delivery for a multinational oil and gas services company, I managed offices and sites on three continents as well as oversaw the planning and commercial aspects of each branch.",
     "url": "http://localhost:4000/just-the-docs/Work/",
     "relUrl": "/Work/"
   },
-  "22": {
-    "id": "22",
+  "21": {
+    "id": "21",
     "title": "Writing",
     "content": "Writing Examples",
     "url": "http://localhost:4000/just-the-docs/writing",
     "relUrl": "/writing"
   },
-  "23": {
-    "id": "23",
-    "title": "",
-    "content": "Welcome to another page tits back",
-    "url": "http://localhost:4000/just-the-docs/another-page/",
-    "relUrl": "/another-page/"
-  },
-  "24": {
-    "id": "24",
+  "22": {
+    "id": "22",
     "title": "ImTwitter Setup",
     "content": "Incomplete Post Chrome Extension Twitter HTML JavaScript Last updated on April 23, 2019 Introduction ImTwitter Chrome Extension This project is a Chrome extension that I built to automate a Twitter account from your browser. It is built with features to control the rate of which you perform tasks and has a built in hard limit per session that reduces the likelihood of a twitter soft ban. Features Auto Like Auto Un Like Auto Retweet Auto Un Retweet Auto Follow Auto UnFollow App Scheduling",
     "url": "http://localhost:4000/just-the-docs/ImTwitter/imtwitter%20setup/",
     "relUrl": "/ImTwitter/imtwitter%20setup/"
   },
-  "25": {
-    "id": "25",
+  "23": {
+    "id": "23",
     "title": "Home",
     "content": "About Me I am an Operations Expert / Product Owner / Growth Hacker working with multiple startups. I’m passionate about working with startups who focus on emerging technologies, as startups tend to be the best environments for idea generation and execution due to their inherently nimble nature. Specializing in Operations Management and Setup, Protocol Development, Product Design and Development, Growth Hacking, Project Management, I am a genralist at heart and love diversifying my skill set. I have sucessfully worked with teams in the Cryptocurrency, Commodities, Construction, Software, Finance, Cannabis and Music industries, with companies such as the World Health Organization, The Hemp Coin, Solaris, Bitcoin Foundation, Menlo One, RealFevr, PIMeo, BeatzCoin and many others.",
     "url": "http://localhost:4000/just-the-docs/",
