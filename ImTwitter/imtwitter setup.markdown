@@ -35,3 +35,7 @@ This project is a Chrome extension that I built to automate a Twitter account fr
 5. Auto Follow
 6. Auto UnFollow
 7. App Scheduling
+
+[Download Extension]("../../downloads/ImTwitter.zip"){: .btn .btn-green }
+
+<a href="../../downloads/ImTwitter.zip" download>Download the Extension</a>
