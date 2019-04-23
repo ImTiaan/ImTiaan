@@ -1,3 +1,10 @@
+PATH
+  remote: .
+  specs:
+    just-the-docs (0.2.3)
+      jekyll (~> 3.8.5)
+      rake (~> 12.3.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -27,15 +34,10 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.12.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    just-the-docs (0.2.3)
-      jekyll (~> 3.8.5)
-      rake (~> 12.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.1.5)
@@ -63,10 +65,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.5)
-  jekyll-feed (~> 0.6)
-  just-the-docs
-  tzinfo-data
+  bundler (~> 2.0.1)
+  just-the-docs!
 
 BUNDLED WITH
    2.0.1
