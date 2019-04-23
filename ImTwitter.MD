@@ -18,7 +18,10 @@ HTML
 JavaScript
 {: .label .label-purple }
 <!-- Place this tag where you want the button to render. -->
-&nbsp;<a class="github-button" href="https://github.com/ImTiaan/ImTwitter/fork" data-show-count="true" aria-label="Fork ImTiaan/ImTwitter on GitHub">Fork</a>
+&nbsp;<a class="github-button" href="https://github.com/ImTiaan/ImTwitter/fork" data-show-count="true" aria-label="Fork ImTiaan/ImTwitter on GitHub">Fork</a> 
+<br>
+<br>
+<button type="button" name="button" class="btn"><a href="../../downloads/ImTwitter.zip" download>Download Extension</a></button>
 
 # ImTwitter Chrome Extension
 
