@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: ImTwitter Setup
 parent: ImTwitter
 nav_exclude: true
