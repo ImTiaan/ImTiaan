@@ -12,7 +12,7 @@ nav_order: 3
 
 | Skill              | Experience |
 |--------------------|------------|
-| Sentiment Analysis | 6 Years    |
+| Sentiment and Data Analysis | 6 Years    |
 | Analytics          | 3 Years    |
 | User Acquisition   | 2.5 Years  |
 | Hyper Growth       | 2 Years    |

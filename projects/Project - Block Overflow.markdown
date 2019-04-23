@@ -10,6 +10,8 @@ Blockchain
 
 # Block Overflow
 
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="3603" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
+<br>
 Block Overflow is a dApp similar to Stack Overflow. It differs, however, in that developers who are able to answer gets paid to do so if they provide the most valuable answer. Block overflow is built on a Menlo One Content Node, which has decentralizing properties, it however is still able to deliver content and information as fast as a cloud server, with the benefits of blockchain technology.
 
 ## Things I Worked On: 
@@ -29,4 +31,5 @@ Block Overflow is a dApp similar to Stack Overflow. It differs, however, in that
 
 <br>
 
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="3603" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
+
+![Profile Picture](../../assets/images/blockoverflow.png "Block Overflow")

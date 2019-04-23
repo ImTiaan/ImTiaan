@@ -27,3 +27,4 @@ RealFevr is a online fantasy sports platform that was launched in 2014, since th
 3. Football
 4. Hedging and Leveraging
 
+![Profile Picture](../../assets/images/realfevr.png "RealFevr")

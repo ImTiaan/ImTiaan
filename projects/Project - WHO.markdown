@@ -21,5 +21,5 @@ I worked with the Dev 200 team to plan, build and develop a mobile application f
 5. Project Management
 7. UI / UX Design
 
-
+![Profile Picture](../../assets/images/who.png "WHO")
 

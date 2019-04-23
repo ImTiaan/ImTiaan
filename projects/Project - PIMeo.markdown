@@ -29,4 +29,4 @@ PIMeo, a tool for workers on construction sites and in the civil engineering sec
 	1. Controls and Verifications Process
 	2. Compliance and Testing
 
-
+![Profile Picture](../../assets/images/pimeo.png "PIMeo")

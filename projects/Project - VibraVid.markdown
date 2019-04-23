@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BeatzCoin (XLR)
+title: BeatzCoin (BTZC)
 parent: Projects
 nav_exclude: true
 nav_order: 4
@@ -23,3 +23,5 @@ BeatzCoin is a platform for creators to upload, store, market, rent and sell the
 ## Fun Information
 
 John McAfee <a href="https://twitter.com/officialmcafee/status/1101882160720560128" target="0"> tweeted </a> about this project, and being the writer and product developer behind many of the concepts in the whitepaper, I think it's pretty cool!
+
+![Profile Picture](../../assets/images/beatz.png "BeatzCoin")

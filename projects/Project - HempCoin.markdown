@@ -31,4 +31,5 @@ Being one of the oldest surviving Gen 1 Cryptocurrencies, it was a complete hono
 
 <br>
 
-![Profile Picture](../assets/images/hempcoin.png "HempCoin")
+
+![Profile Picture](../../assets/images/hempcoin.png "HempCoin")
