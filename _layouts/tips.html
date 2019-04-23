@@ -15,7 +15,7 @@
 </style>
   <div class="page-wrap">
     <div class="side-bar">
-      <a href="../" class="site-title fs-6 lh-tight">{{ site.title }}</a>
+      <a href=".. /" class="site-title fs-6 lh-tight">{{ site.title }}</a>
       <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
         <b>{% include nav.html %}</b>
@@ -68,6 +68,37 @@
         {% endunless %}
         <div id="main-content" class="page-content" role="main">
           {{ content }}
+          <div class="container">
+    <div class="col-md-4">
+    <!-- LIGHTNING TIP -->
+<p>Lightning Network</p>
+<div id="tippin-button" data-dest="ImTiaan"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+</div>
+<!-- LIGHTNING TIP -->
+  </div>
+</div>
+
+<br>
+<!-- Bitcoin TIP -->
+<p>Bitcoin</p>
+<a href="https://blockstream.info/address/bc1qlzt9yhan223d88r2y5vsxvyt930apnfwh0d0mr" target="0">bc1qlzt9yhan223d88r2y5vsxvyt930apnfwh0d0mr</a>
+<!-- ETHEREUM TIP -->
+<br>
+<br>
+<!-- ETHEREUM TIP -->
+<p>Monero</p>
+<a href="https://moneroblocks.info/search/4592f5F4Hei7EYMHD4d8jzhJiAUrQusH6fdYQ2MuRgQ5awb9b63Uko86cYxjBNTH4Q22YRFzmxH2gFZ6KNAGv9B9DBReE6Q" target="0">4592f5F4Hei7EYMHD4d8jzhJiAUrQusH6fdYQ2MuRgQ5awb9b63Uko86cYxjBNTH4Q22YRFzmxH2gFZ6KNAGv9B9DBReE6Q</a>
+<!-- ETHEREUM TIP -->
+
+<br>
+<br>
+<!-- ETHEREUM TIP -->
+<p>Ethereum / ERC20</p>
+<a href="https://etherscan.io/address/0x236cc9c02b5e5b0d1f49d2708ee79d63a50e16de" target="0">0x236cc9c02B5e5B0d1F49d2708eE79d63A50E16dE</a>
+<!-- ETHEREUM TIP -->
+
+</div>
 
           {% if page.has_children == true and page.has_toc != false %}
           <hr>
