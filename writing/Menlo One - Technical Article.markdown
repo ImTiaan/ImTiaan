@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: Article / Blog
 parent: Writing
 nav_exclude: true

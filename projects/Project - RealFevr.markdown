@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: RealFevr
 parent: Projects
 nav_exclude: true

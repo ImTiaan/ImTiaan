@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: Whitepaper Extract 3
 parent: Writing
 nav_exclude: true

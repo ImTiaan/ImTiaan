@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: Tutorial 
 parent: Writing
 nav_exclude: true

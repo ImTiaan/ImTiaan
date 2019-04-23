@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: Block Overflow (ONE)
 parent: Projects
 nav_exclude: true

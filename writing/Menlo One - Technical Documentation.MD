@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: Technical Documentation
 parent: Writing
 nav_exclude: true

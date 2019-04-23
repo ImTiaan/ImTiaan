@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: PIMeo
 parent: Projects
 nav_exclude: true

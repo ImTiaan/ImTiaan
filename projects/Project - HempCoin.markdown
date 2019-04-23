@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: HempCoin (THC)
 parent: Projects
 nav_exclude: true

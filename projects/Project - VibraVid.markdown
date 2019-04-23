@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: BeatzCoin (BTZC)
 parent: Projects
 nav_exclude: true

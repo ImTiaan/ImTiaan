@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: extra
 title: Solaris (XLR)
 parent: Projects
 nav_exclude: true
