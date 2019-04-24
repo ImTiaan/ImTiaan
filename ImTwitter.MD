@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ImTwitter
+title: 💾 - ImTwitter
 nav_order: 6
 has_children: true
 permalink: /ImTwitter
@@ -18,7 +18,7 @@ HTML
 JavaScript
 {: .label .label-purple }
 <!-- Place this tag where you want the button to render. -->
-&nbsp;<a class="github-button" href="https://github.com/ImTiaan/ImTwitter/fork" data-show-count="true" aria-label="Fork ImTiaan/ImTwitter on GitHub">Fork</a> 
+&nbsp;<a class="github-button" href="https://github.com/ImTiaan/ImTwitter/fork" data-show-count="true" aria-label="Fork ImTiaan/ImTwitter on GitHub">Fork</a>
 <br>
 <br>
 <button type="button" name="button" class="btn"><a href="../../downloads/ImTwitter.zip" download>Download Extension</a></button>
@@ -29,12 +29,12 @@ This project is a Chrome extension that I built to automate a Twitter account fr
 
 ## Features
 
-1. Auto Like
-2. Auto Un Like
-3. Auto Retweet
-4. Auto Un Retweet
+7. Scheduling
 5. Auto Follow
 6. Auto UnFollow
-7. App Scheduling
+3. Auto Retweet
+4. Auto UnRetweet
+1. Auto Like
+2. Auto UnLike
 
 

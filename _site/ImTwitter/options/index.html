@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   
 
-  <title>RealFevr - ImTiaan</title>
+  <title>Options and Scheduling - ImTiaan</title>
   <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -89,7 +89,7 @@
     
       
         
-          <li class="navigation-list-item active">
+          <li class="navigation-list-item">
             
             <a href="http://localhost:4000/Projects" class="navigation-list-link">Projects</a>
             
@@ -161,9 +161,9 @@
                   
                 
                   
-                    <li class="navigation-list-item  active">
+                    <li class="navigation-list-item ">
                       
-                      <a href="http://localhost:4000/projects/Project%20-%20RealFevr/" class="navigation-list-link active">RealFevr</a>
+                      <a href="http://localhost:4000/projects/Project%20-%20RealFevr/" class="navigation-list-link">RealFevr</a>
                       
                     </li>
                   
@@ -343,7 +343,7 @@
     
       
         
-          <li class="navigation-list-item">
+          <li class="navigation-list-item active">
             
             <a href="http://localhost:4000/ImTwitter" class="navigation-list-link">💾 - ImTwitter</a>
             
@@ -407,9 +407,9 @@
                   
                 
                   
-                    <li class="navigation-list-item ">
+                    <li class="navigation-list-item  active">
                       
-                      <a href="http://localhost:4000/ImTwitter/options/" class="navigation-list-link">Options and Scheduling</a>
+                      <a href="http://localhost:4000/ImTwitter/options/" class="navigation-list-link active">Options and Scheduling</a>
                       
                     </li>
                   
@@ -484,40 +484,217 @@
             <nav class="breadcrumb-nav">
               <ol class="breadcrumb-nav-list">
                 
-                  <li class="breadcrumb-nav-list-item"><a href="http://localhost:4000/Projects">Projects</a></li>
+                  <li class="breadcrumb-nav-list-item"><a href="http://localhost:4000/ImTwitter">💾 - ImTwitter</a></li>
                 
-                <li class="breadcrumb-nav-list-item"><span>RealFevr</span></li>
+                <li class="breadcrumb-nav-list-item"><span>Options and Scheduling</span></li>
               </ol>
             </nav>
           
         
         <div id="main-content" class="page-content" role="main">
-          <p class="label label-green">Blockchain</p>
+          <p class="label label-red">Incomplete Post</p>
+<p class="label label-green">Chrome</p>
+<p class="label label-yellow">Extension</p>
+<p class="label label-blue">Twitter</p>
+<p class="label label-purple">HTML</p>
+<p class="label label-purple">JavaScript</p>
+<p><br />
+<i>Last updated on April 24, 2019</i></p>
 
-<h1 id="realfevr">RealFevr</h1>
+<h1>Options and Scheduling</h1>
 
-<p>RealFevr is a online fantasy sports platform that was launched in 2014, since then they have been looking for a way in which to monetize their platform. I worked with the team to develop a prototype of a crypto-fueled version of the platform that not only allowed for wagering between users who compete in the same fantasy league, but also to use a token such as ERC721’s to provide “ownership” of players, and in game player trading much like actual football teams would. The product is due for release in 2019.
-<br /></p>
+<h2 class="no_toc no_toc text-delta" id="table-of-contents">Table of contents</h2>
 
-<h2 id="things-i-worked-on">Things I Worked On:</h2>
-
-<ol>
-  <li>Strategy</li>
-  <li>Branding &amp; Marketing</li>
-  <li>Product Development</li>
-  <li>Content Creation</li>
+<ol id="markdown-toc">
+  <li><a href="#scheduler" id="markdown-toc-scheduler">Scheduler</a></li>
+  <li><a href="#likes-and-retweets" id="markdown-toc-likes-and-retweets">Likes and Retweets</a></li>
+  <li><a href="#unfollow" id="markdown-toc-unfollow">Unfollow</a>    <ol>
+      <li><a href="#advanced-conditions" id="markdown-toc-advanced-conditions">Advanced Conditions</a></li>
+    </ol>
+  </li>
+  <li><a href="#follow" id="markdown-toc-follow">Follow</a>    <ol>
+      <li><a href="#advanced-conditions-1" id="markdown-toc-advanced-conditions-1">Advanced Conditions</a></li>
+    </ol>
+  </li>
 </ol>
 
-<h2 id="things-i-learned-about">Things I Learned About:</h2>
+<h2 id="scheduler">Scheduler</h2>
+
+<p>Here you can schedule actions for your browser to start automatically. I recommend that you don’t run tasks 24/7 because it may trigger a Twitter monitoring algorithm. I recommend setting up scheduling for set hours each day, varying them on occasion.</p>
+
+<p><img src="../images/scheduler.png" alt="Scheduler" title="Scheduler" /></p>
 
 <ol>
-  <li>Fantasy Leagues</li>
-  <li>Sports Betting</li>
-  <li>Football</li>
-  <li>Hedging and Leveraging</li>
+  <li>Action Type
+    <ul>
+      <li>Follow</li>
+      <li>Unfollow</li>
+      <li>Like</li>
+      <li>Unlike</li>
+      <li>Retweet</li>
+      <li>Unretweet
+<br />
+<br /></li>
+    </ul>
+  </li>
+  <li>No. of Actions
+    <ul>
+      <li>This sets the number of times the action is performed, so if you were scheduling Follows, you would set how many accounts you would like to follow. (The safety limit of 51 will apply here, however I will show you how to change this limit later in this document).
+<br /></li>
+    </ul>
+  </li>
+  <li>Rate
+    <ul>
+      <li>This is the same as the <code class="highlighter-rouge">Follows/Unfollows Per Interval</code> parameter in the main menu. It simply allows you to decide how many of the task (Follow/Like/Retweet etc.) the extension performs each time it activates.
+<br /></li>
+    </ul>
+  </li>
+  <li>Min
+    <ul>
+      <li>Minimum delay is the minimum wait time that the extension will wait until performing whichever action it is that you’re asking it to carry out.
+The default is set to 3 seconds. This is really the minimum amount of time that I have gotten away with, however I prefer to use 5 seconds to be safe.
+<br /></li>
+    </ul>
+  </li>
+  <li>Max
+    <ul>
+      <li>Maximum delay is the maximum wait time that the extension will wait until performing whichever action it is that you’re asking it to carry out.
+The default is set to 3 seconds. This is really the minimum amount of time that I have gotten away with, however I prefer to use 25 seconds to be safe and to allow the extension to vary the time intervals.
+<br /></li>
+    </ul>
+  </li>
+  <li>Duration Type
+    <ul>
+      <li>Seconds</li>
+      <li>Minutes</li>
+      <li>Hours</li>
+      <li>Days
+<br /></li>
+    </ul>
+  </li>
+  <li>HR
+    <ul>
+      <li>The time (hour) that the bot should start.
+<br /></li>
+    </ul>
+  </li>
+  <li>Min
+    <ul>
+      <li>The time (minutes) that the bot should start.
+<br /></li>
+    </ul>
+  </li>
+  <li>Url
+    <ul>
+      <li>The Url for the source of the content / accounts that you will perform the action on (more of this later).</li>
+    </ul>
+  </li>
 </ol>
 
-<p><img src="../../assets/images/realfevr.png" alt="Profile Picture" title="RealFevr" /></p>
+<h2 id="likes-and-retweets">Likes and Retweets</h2>
+
+<p>Here you can set your like and retweet limit for the day.</p>
+
+<p><img src="../images/landr.png" alt="Likes &amp; Retweet" title="Likes &amp; Retweet" /></p>
+
+<p>As per Twitter policy, your daily tweet limit is 2,400 per day, and this includes retweets, so you could set this limit to 2,400 per day, but may want to leave some room for your own tweets as well. It also might trigger a soft ban on your account if you constantly max out your daily tweets.</p>
+
+<p>There is no published maximum number of likes per day, anecdotally, I managed 1,000 per day for a 7 day period without any issue, so I recommend that as a ceiling limit, but again, your useage of this extension will benefit your account more by spending time on refining your automated actions as opposed to simply increasing the rate at which the extension operates.</p>
+
+<h2 id="unfollow">Unfollow</h2>
+
+<p>Here are your rate and condition settings for unfollowing.</p>
+
+<p><img src="../images/unfollow.png" alt="Unfollow" title="Unfollow" /></p>
+
+<ol>
+  <li>Unfollow Limit Per Day
+    <ul>
+      <li>Twitters technical limit is 400 per day, the same as the follow limit.</li>
+    </ul>
+  </li>
+  <li>Only unfollow users who do not follow me
+    <ul>
+      <li>This is a useful option for the cleanup part of these guidelines, where you automate the removal of accounts that didn’t follow yours back.</li>
+    </ul>
+  </li>
+  <li>Skip users with verified profiles
+    <ul>
+      <li>Useful if you wish to easily exclude verified profiles from this process.</li>
+    </ul>
+  </li>
+  <li>Skip users followed with app in last 2 days
+    <ul>
+      <li>This is to prevent Twitter flagging the account, and also to allow these accounts some time to follow you back.</li>
+    </ul>
+  </li>
+  <li>Prevent images from rendering
+    <ul>
+      <li>A bandwidth and resource saving option.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="advanced-conditions">Advanced Conditions</h3>
+
+<p>Here are your options to further refine your unfollow parameters. You have the option of whether an item should or shouldn’t exist as conditions to unfollow an account or not.</p>
+
+<ol>
+  <li>Profile Image</li>
+  <li>Bio</li>
+  <li>Location</li>
+  <li>URL</li>
+</ol>
+
+<p><img src="../images/unfollowopt.png" alt="Unfollow Options" title="Unfollow Options" /></p>
+
+<h2 id="follow">Follow</h2>
+<p>Here are your rate and condition settings for following.</p>
+
+<p><img src="../images/follow.png" alt="Follow" title="Follow" /></p>
+
+<ol>
+  <li>Follow Limit Per Day
+    <ul>
+      <li>Twitters technical limit is 400 per day, the same as the unfollow limit.</li>
+    </ul>
+  </li>
+  <li>Skip protected accounts while following
+    <ul>
+      <li>This is simply because there is no easy way to view pending requests on Twitter, therefore it would be difficult to keep track of these.</li>
+    </ul>
+  </li>
+  <li>Skip Who To Follow section while following
+    <ul>
+      <li>This is useful to toggle on when you are following a targeted list of account types. Often the suggested profiles aren’t the exact audience you are looking for.</li>
+    </ul>
+  </li>
+  <li>Beep when there are no users to follow
+    <ul>
+      <li>Beeps when there are no users to follow.</li>
+    </ul>
+  </li>
+  <li>Prevent images from rendering
+    <ul>
+      <li>A bandwidth and resource saving option.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="advanced-conditions-1">Advanced Conditions</h3>
+
+<p>Here are your options to further refine your follow parameters. You have the option of whether an item should or shouldn’t exist as conditions to follow an account or not.</p>
+
+<ol>
+  <li>Profile Image</li>
+  <li>Bio</li>
+  <li>Location</li>
+  <li>URL</li>
+</ol>
+
+<p><img src="../images/unfollowopt.png" alt="Unfollow Options" title="Unfollow Options" /></p>
+
+<p><a href="/ImTwitter/overview/" title="Next">Next Page</a></p>
 
 
           
