@@ -3,7 +3,7 @@ layout: extra
 title: Following
 parent: 💾 - ImTwitter
 nav_exclude: true
-nav_order: 6
+nav_order: 7
 ---
 Incomplete Post
 {: .label .label-red }

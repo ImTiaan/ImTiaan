@@ -3,7 +3,7 @@ layout: extra
 title: Retweets
 parent: 💾 - ImTwitter
 nav_exclude: true
-nav_order: 6
+nav_order: 9
 ---
 Incomplete Post
 {: .label .label-red }
@@ -42,4 +42,4 @@ The reason for this is to generate some tweet history from popular accounts to l
 As you can see, the extension handles the retweet process automatically.
 
 
-[Next Page](/ImTwitter/rewards/ "Next")
+[Next Page](/ImTwitter/xxxxxxx/ "Next")
