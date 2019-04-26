@@ -148,4 +148,4 @@ Here are your options to further refine your follow parameters. You have the opt
 
 
 
-[Next Page](/ImTwitter/overview/ "Next")
+[Next Page](/ImTwitter/targeted/ "Next")
