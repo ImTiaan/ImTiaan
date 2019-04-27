@@ -1,9 +1,9 @@
 ---
 layout: extra
-title: Retweets
-parent: 
+title: Results
+parent: 💾 - ImTwitter
 nav_exclude: true
-nav_order: 6
+nav_order: 10
 ---
 Incomplete Post
 {: .label .label-red }
@@ -23,23 +23,17 @@ JavaScript
 <h1>Basic Useage</h1>
 
 
-## Retweets	
+## Results
 
-Retweeting takes a bit of time, so that is why we've left this task for last in your Twitter growth cycle. 
+Wooo, either pretty soon or within a few hours you will start getting new Followers, Retweets and Likes. 
 
-Navigate to your Twitter Feed and select "Retweet" from the menu as you did in the "[Following](/ImTwitter/liking/ "previous")" step. 
+![Notification](../images/notification.png "Notification")
 
-![Retweet](../images/retweet.png "Retweet")
+This is a screengrab from around 2 hours after I finished ths process for the first round.
 
-The extension will now retweet the top 51 tweets in your feed. 
+![New Followers](../images/newfollowers.png "New Followers")
 
-![Retweet Example](../images/retweetex.png "Retweet Example")
-
-The reason for this is to generate some tweet history from popular accounts to legitimize the account. 
-
-![Retweet Example](../images/retweetex.gif "Retweet Example")
-
-As you can see, the extension handles the retweet process automatically.
+You've officially finished the basic tutorial on how to grow your Twitter account with automation!
 
 
 [Next Page](/ImTwitter/rewards/ "Next")

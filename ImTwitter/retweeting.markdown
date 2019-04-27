@@ -42,4 +42,4 @@ The reason for this is to generate some tweet history from popular accounts to l
 As you can see, the extension handles the retweet process automatically.
 
 
-[Next Page](/ImTwitter/xxxxxxx/ "Next")
+[Next Page](/ImTwitter/rewards/ "Next")
