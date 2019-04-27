@@ -33,7 +33,9 @@ This is a screengrab from around 2 hours after I finished ths process for the fi
 
 ![New Followers](../images/newfollowers.png "New Followers")
 
-You've officially finished the basic tutorial on how to grow your Twitter account with automation!
+You've officially finished the basic tutorial on how to grow your Twitter account with automation! 
+
+For your next step, I would recommend visiting the `Options` section of the extension and set up a schedule, while keeping the [limitations](/ImTwitter/automation/ "Limitations") Twitter has in mind.
 
 
-[Next Page](/ImTwitter/rewards/ "Next")
+[Next Page](/ImTwitter/summary/ "Next")
