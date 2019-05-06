@@ -19,7 +19,7 @@ CSV
 
 <!-- Place this tag where you want the button to render. -->	
 <br>
-<button type="button" name="button" class="btn"><a href="https://raw.githubusercontent.com/ImTiaan/ImTiaan/master/downloads/Dapper%20List.csv" download>Download CSV</a></button>
+<button type="button" name="button" class="btn"><a href="https://raw.githubusercontent.com/ImTiaan/ImTiaan/master/downloads/Dapper%20List.csv" target="0" download>Download CSV</a></button>
 
 # Supported Tokens
 _Note: This data was taken from the Dapper (beta) extension on 6 May 2019_
