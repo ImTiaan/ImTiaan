@@ -25,6 +25,8 @@ JavaScript
 
 # ImTwitter Chrome Extension
 
+_Note: This project is in progress, I will make the download and repository active once I have completed the documentation on this site_
+
 This project is a Chrome extension that I built to automate a Twitter account from your browser. It is built with features to control the rate of which you perform tasks and has a built in hard limit per session that reduces the likelihood of a twitter soft ban. 
 
 ## Features
