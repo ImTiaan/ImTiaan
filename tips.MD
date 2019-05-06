@@ -1,6 +1,6 @@
 ---
 layout: tips
-title: tips
-permalink: /Tips
+title: Tips
+permalink: /tips
 nav_exclude: true
 ---
