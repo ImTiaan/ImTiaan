@@ -24,6 +24,7 @@ CSV
 _Note: This data was taken from the Dapper (beta) extension on 6 May 2019_
 <be>
 _This page is unsupported and not kept up to date_
+<br>
 
 ```
 0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190,Dether,logo,dether.svg,erc20,:true,symbol,DTH,decimals,:18,
