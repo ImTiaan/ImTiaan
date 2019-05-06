@@ -6,7 +6,7 @@ nav_exclude: true
 
 
 
-# About Me
+# Tiaan Wolmarans
 
 I am an Operations Expert / Product Owner / Growth Hacker working with multiple startups. I'm passionate about working with startups who focus on emerging technologies, as startups tend to be the best environments for idea generation and execution due to their inherently nimble nature.
 
